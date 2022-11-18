@@ -1,5 +1,7 @@
 # Signals and Systems Laboratory Coursework
 
+> NOTE: Github's LaTeX rendering breaks in the preview. To view, download instead and use VSCode to open.
+
 ## Introductory Video
 
 <p align="center">
